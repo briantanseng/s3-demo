@@ -9,6 +9,7 @@
   "author": "Brian Tan Seng",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.948.0"
+    "aws-sdk": "^2.948.0",
+    "crypto": "^1.0.1"
   }
 }
